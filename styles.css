@@ -33,7 +33,7 @@ div {
 }
 
 #logo {
-    background: url(/img/logo.jpg);
+    background: url('img/logo.jpg');
     background-repeat: no-repeat;
     width: 225px;
     height: 225px;
